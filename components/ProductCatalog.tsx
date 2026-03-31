@@ -11,9 +11,9 @@ const products = [
   { id: 4, name: 'Бігові кросівки Speed', category: 'Взуття', price: 4500, image: '/images/product-shoes.jpg', isNew: false },
   { id: 5, name: 'Худі Comfort', category: 'Худі', price: 2100, image: '/images/product-hoodie.jpg', isNew: true },
   { id: 6, name: 'Шорти Training', category: 'Шорти', price: 1100, image: '/images/product-shorts.jpg', isNew: false },
-  { id: 7, name: 'Майка Compression', category: 'Футболки', price: 8950, image: '/images/product-tank.jpg', isNew: false },
+  { id: 7, name: 'Майка Compression', category: 'Футболки', price: 850, image: '/images/product-tank.jpg', isNew: false },
   { id: 8, name: 'Вітровка Ultralight', category: 'Куртки', price: 2800, image: '/images/product-jacket.jpg', isNew: true },
-    { id: 9, name: 'Майка Compression', category: 'Футболки', price: 8050, image: '/images/product-tank.jpg', isNew: false },
+  
 ]
 
 const categories = ['Все', 'Куртки', 'Штани', 'Футболки', 'Взуття', 'Худі', 'Шорти']
