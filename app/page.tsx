@@ -277,7 +277,7 @@ export default function Home() {
 
           <div className="mt-12 flex flex-col items-center gap-4 border-t border-border pt-8 md:flex-row md:justify-between">
             <p className="text-xs text-muted-foreground">
-              © 2023–2026 SPORTIX. Усі права захищені. Власник — Варварич Роман Миколайович.
+              © 2026 SPORTIX. Усі права захищені. Власник — Варварич Роман Миколайович.
             </p>
             <div className="flex gap-6">
               <a href="#" className="text-xs text-muted-foreground transition-colors hover:text-foreground">Політика конфіденційності</a>
