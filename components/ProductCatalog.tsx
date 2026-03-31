@@ -13,6 +13,7 @@ const products = [
   { id: 6, name: 'Шорти Training', category: 'Шорти', price: 1100, image: '/images/product-shorts.jpg', isNew: false },
   { id: 7, name: 'Майка Compression', category: 'Футболки', price: 850, image: '/images/product-tank.jpg', isNew: false },
   { id: 8, name: 'Вітровка Ultralight', category: 'Куртки', price: 2800, image: '/images/product-jacket.jpg', isNew: true },
+    { id: 9, name: 'Майка Compression', category: 'Футболки', price: 850, image: '/images/product-tank.jpg', isNew: false },
 ]
 
 const categories = ['Все', 'Куртки', 'Штани', 'Футболки', 'Взуття', 'Худі', 'Шорти']
